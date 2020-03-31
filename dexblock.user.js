@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name     MangaDEX Anti-Fool
+// @name     DexBlock
 // @version  1
 // @grant    none
 // @include *mangadex.org/*
